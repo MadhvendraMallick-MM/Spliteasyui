@@ -17,6 +17,9 @@ A user-interface project focused on making metro route planning easier to unders
 
 ---
 
+<img width="343" height="759" alt="Screenshot 2026-10-11 at 11 49 30 PM" src="https://github.com/user-attachments/assets/e8091f86-2890-480b-bb91-814ba5a7ac8c" />
+
+
 ## 📌 Project Overview
 
 Urban commuters often need to process several pieces of information before choosing a route, including their destination, possible connections, and the overall journey.
